@@ -1,0 +1,6 @@
+\omega ^{T}+b=0
+
+$$\left\{\begin{matrix}
+\omega ^{t}x+b\geqslant +1, y_{i}=+1\\ 
+\omega ^{t}x+b\leqslant -1, y_{i}=-1
+\end{matrix}\right.$$
